@@ -12,5 +12,5 @@ Ejemplo de construccion de una CI con appveyor y travis-ci para un ejemplo de Ne
 
 |Appveyor|Travis|Azure Pipelines|
 |--------|------|---------------|
-|[![Build status](https://ci.appveyor.com/api/projects/status/2xq43fxsta4u2pmn?svg=true)](https://ci.appveyor.com/project/albertortizcape/workshop-riojadotnet)||
+|[![Build status](https://ci.appveyor.com/api/projects/status/2xq43fxsta4u2pmn?svg=true)](https://ci.appveyor.com/project/albertortizcape/workshop-riojadotnet)|https://travis-ci.org/albertortizcape/Workshop_RiojaDotNet.svg?branch=NetCore|
 
